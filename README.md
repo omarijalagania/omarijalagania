@@ -12,7 +12,7 @@
 
 ## About me
 
-I am flexibIe, relia bIe andpossess excellent time kee ping skills. I am an enthusiastic, self-motivated, reliabIe, responsible and hard working person. I am a mature team worker and  adaptabIe to aII chaIenging situations. I am able to work well both in a team environment as well as using own initiative.
+I am flexibIe, reliable and possess excellent time keeping skills. I am an enthusiastic, self-motivated, responsible and hard working person. I am a mature team worker and adaptabIe to aII chaIenging situations. I am able to work well both in a team environment as well as using own initiative.
 
 
 
