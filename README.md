@@ -36,13 +36,5 @@ I am flexibIe, reliable and possess excellent time keeping skills. I am an enthu
 
 
 
-## ⚙️ &nbsp;Github Stats
 
-
-<p align="center">
-<a href="https://github.com/omarijalagania">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarijalagania&include_all_commits=true&show_icons=true&theme=dark&layout=compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarijalagania&show_icons=true&theme=dark&layout=compact"/>
-</a>
-</p>
 
