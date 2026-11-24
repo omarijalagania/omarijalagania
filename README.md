@@ -1,39 +1,104 @@
- ## 👋 &nbsp;Hey there! I'm Omari 
- 
- <a href="https://www.linkedin.com/in/omarijalagania/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Omari%20Jalagania&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Kutaisi%2C%20Georgia&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Omari Jalagania" />
+</p>
 
-<a href="mailto:omari.jalagania@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Next.js+%2B+Laravel+in+production;Building+airport+%26+telecom+software;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+PHP;6%2B+years+shipping+web+apps" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="mailto:omar.jalagania@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=06b6d4" alt="Email" /></a>
+  <!-- TODO: replace YOUR-LINKEDIN with your LinkedIn handle -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=06b6d4" alt="LinkedIn" /></a>
+  <a href="https://github.com/omarijalagania"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=06b6d4" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=omarijalagania&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
+---
 
-## About me
+### 👋 About me
 
-I am flexibIe, reliable and possess excellent time keeping skills. I am an enthusiastic, self-motivated, responsible and hard working person. I am a mature team worker and adaptabIe to aII chaIenging situations. I am able to work well both in a team environment as well as using own initiative.
+I'm a full-stack developer from **Kutaisi, Georgia** who builds the software real operations run on — from airport logistics to telecom billing. I like owning a product end to end: database design, secure APIs, and fast, polished frontends.
 
+```ts
+const omari = {
+  role:        "Full-Stack Developer",
+  basedIn:     "Kutaisi, Georgia 🇬🇪",
+  currently:   ["Kutaisi International Airport", "Telecom1"],
+  stack:       ["Next.js", "React", "Laravel", "Node.js", "TypeScript"],
+  focus:       ["RBAC dashboards", "payments & billing", "real-time apps", "AI integrations"],
+  speaks:      ["Georgian", "English", "Russian"],
+  openTo:      "interesting full-stack & remote roles",
+};
+```
 
+---
 
-## 🛠 &nbsp;Tech Stack
+### 💼 What I'm working on
 
+| | Company | What I build |
+|:-:|---|---|
+| ✈️ | **Kutaisi International Airport** · 2024 – now | Airport management suite (Laravel + Next.js), warehouse & inventory system, role-based admin dashboards |
+| 📡 | **Telecom1** · 2024 – now | ID verification platform, core billing software, secure payment integrations |
+| 🧪 | **Onyx Labs** (USA, remote) · 2022 – 2024 | Gemini AI nutrition lookup, real-time event platform with Socket.IO, MongoDB architecture |
+| 🍓 | **Redberry** · 2022 – 2024 | Social platforms and CRUD dashboards in an agile team |
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=nextdotjs)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<details>
+<summary><b>Earlier experience</b></summary>
+<br/>
 
+- **Future Bridge** (Czech Republic, remote) · 2021 — dashboard platform with Chakra UI + Supabase
+- **Kartli** · 2020 – 2021 — mobile-responsive core platform with TypeScript + Styled Components
+- **Redberry Internship** — 5-month intensive full-stack (React/Node) program
 
+</details>
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,tailwind,styledcomponents&theme=dark" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mongodb,supabase,firebase&theme=dark" alt="Backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode,figma,postman&theme=dark" alt="Tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-0f172a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Chakra_UI-0f172a?style=flat-square&logo=chakraui&logoColor=319795" />
+  <img src="https://img.shields.io/badge/Socket.IO-0f172a?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-0f172a?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+  <img src="https://img.shields.io/badge/Twilio-0f172a?style=flat-square&logo=twilio&logoColor=F22F46" />
+  <img src="https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logo=fastapi&logoColor=06b6d4" />
+</p>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omarijalagania&show_icons=true&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4&text_color=cbd5e1&rank_icon=github" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarijalagania&layout=compact&langs_count=8&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=cbd5e1" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omarijalagania&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omarijalagania&bg_color=0f172a&color=cbd5e1&line=06b6d4&point=ffffff&area=true&area_color=06b6d4&hide_border=true" width="100%" alt="Contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <b>Got a project in mind?</b> Reach me at <a href="mailto:omar.jalagania@gmail.com">omar.jalagania@gmail.com</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" width="100%" />
 
 
 
