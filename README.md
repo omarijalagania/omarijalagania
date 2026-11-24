@@ -42,7 +42,7 @@ const omari = {
 | | Company | What I build |
 |:-:|---|---|
 | ✈️ | **Kutaisi International Airport** · 2024 – now | Airport management suite (Laravel + Next.js), warehouse & inventory system, role-based admin dashboards |
-| 📡 | **Telecom1** · 2024 – now | ID verification platform, core billing software, secure payment integrations |
+| 📡 | **Telecom1** · 2024 – 2026 | ID verification platform, core billing software, secure payment integrations |
 | 🧪 | **Onyx Labs** (USA, remote) · 2022 – 2024 | Gemini AI nutrition lookup, real-time event platform with Socket.IO, MongoDB architecture |
 | 🍓 | **Redberry** · 2022 – 2024 | Social platforms and CRUD dashboards in an agile team |
 
